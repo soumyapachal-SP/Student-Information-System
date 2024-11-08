@@ -1,12 +1,14 @@
-# Student-Information-System
-A Student Information System built with Flask, SQLite, HTML, and Tailwind CSS. This web application enables administrators, teachers, and students to manage and view academic data in a streamlined, role-based dashboard.
+# Student Information System
 
-Features</br>
-Admin Dashboard:</br>
-Enroll new students and teachers.</br>
-View, edit, or delete existing users.</br>
-Teacher Dashboard:</br>
-View personal information.</br>
-Upload student grades.</br>
-Student Dashboard:</br>
-View personal profile and grades.</br>
+A **Student Information System** built with **Flask**, **SQLite**, **HTML**, and **Tailwind CSS**. This web application enables administrators, teachers, and students to manage and view academic data in a streamlined, role-based dashboard.
+
+## Features
+
+- **Admin Dashboard**: 
+  - Enroll new students and teachers.
+  - View, edit, or delete existing users.
+- **Teacher Dashboard**:
+  - View personal information.
+  - Upload student grades.
+- **Student Dashboard**:
+  - View personal profile and grades.
